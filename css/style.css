@@ -287,6 +287,13 @@ section[id] {
   font-size: clamp(2rem, 3vw, 2.7rem);
 }
 
+.panel h1 .eyebrow {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: var(--blue);
+  font-size: 1rem;
+}
+
 .tagline {
   margin: 0.35rem 0 0;
   font-family: var(--display);
@@ -494,9 +501,9 @@ section[id] {
   pointer-events: none;
 }
 
-.faq-col h1,
-.contact-col h1,
-.info-col h2 {
+.faq-col h2,
+.contact-col h2,
+.info-col h1 {
   margin: 0;
   font-family: var(--display);
   text-transform: uppercase;
