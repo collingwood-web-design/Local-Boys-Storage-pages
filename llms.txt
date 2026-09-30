@@ -6,8 +6,9 @@ Local Boys Storage is locally owned and operated by Jack Garbutt. The facility i
 
 ## Pages
 
-- [Home](https://localboysstorage.ca/): Overview, service area, container sizes and frequently asked questions.
+- [Home](https://localboysstorage.ca/): Overview, service area, container sizes and top questions.
 - [Storage Units](https://localboysstorage.ca/storage-units): Unit size, insulation, security and rental options.
+- [FAQ](https://localboysstorage.ca/faq): Answers about unit sizes, insulation, security, hours, service area, insurance, locks and rental terms.
 - [Contact Us](https://localboysstorage.ca/contact-us): Phone, email, address and message form to reserve a unit.
 
 ## Storage units
